@@ -94,4 +94,6 @@ This project is open-source under the **MIT License**.
 * Built using Godot
 
 ---
-![img](C:\Users\Prashant Singh\Downloads\screenshots/tictactoe1.jpeg)
+![Image Alt](https://github.com/prashant-singh5/tic-tac-toe-godot-/blob/78be39a77d35c6d383defc84020246cb058dca5c/screenshot/tictactoe1.jpeg)
+![Image Alt](https://github.com/prashant-singh5/tic-tac-toe-godot-/blob/98361c07a732d5176060e98e3dc4a7341150a8d4/screenshot/tictactoe2.jpeg)
+![Image Alt](https://github.com/prashant-singh5/tic-tac-toe-godot-/blob/98361c07a732d5176060e98e3dc4a7341150a8d4/screenshot/tictactoe3.jpeg)

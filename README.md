@@ -1,6 +1,4 @@
-Here’s a tailored **README.md** for your GitHub repository based on your Tic Tac Toe project structure and files:
 
----
 
 # 🎮 Tic Tac Toe – Godot Engine
 
